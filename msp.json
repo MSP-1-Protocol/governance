@@ -30,12 +30,12 @@
     "type": "ai-assisted",
     "source": "https://github.com/MSP-1-Protocol/governance",
     "timestamp": "2026-09-13T19:54:00-04:00",
-    "notes": "Initial repository-root MSP-1 declaration generated from the public repository and its published description or README for publisher review."
+    "notes": "Initial repository-root MSP-1 declaration generated from the public repository and its published description or README."
   },
   "revision": {
     "id": "repo-msp-rev-2026-09-13",
     "revisionDate": "2026-09-13",
-    "revisionNotes": "Initial repository-root MSP-1 declaration for the GitHub repository convention; generated from current public repository content for publisher review.",
+    "revisionNotes": "Initial repository-root MSP-1 declaration for the GitHub repository convention; generated from current public repository content.",
     "revisionVersion": "1.0.0"
   }
 }
