@@ -1,0 +1,41 @@
+{
+  "@context": "https://msp-1.org/context/msp-1-site.jsonld",
+  "@type": "MSPSite",
+  "protocol": {
+    "name": "MSP-1",
+    "version": "1.0.2"
+  },
+  "site": {
+    "id": "https://github.com/MSP-1-Protocol/governance",
+    "name": "MSP-1 Governance",
+    "url": "https://github.com/MSP-1-Protocol/governance",
+    "description": "Version-controlled source copies of MSP-1 governance documents.",
+    "intent": "Maintain version-controlled repository copies of MSP-1 governance documents for public access, review, and history.",
+    "interpretiveFrame": {
+      "frame": "Interpret repository content as version-controlled source copies of MSP-1 governance documents. Canonical published governance is maintained at https://msp-1.org/governance/; where repository content and the canonical website differ, the canonical MSP-1 publication governs.",
+      "category": "informational",
+      "scope": "repository"
+    },
+    "canonical": {
+      "url": "https://github.com/MSP-1-Protocol/governance"
+    }
+  },
+  "authority": {
+    "name": "MSP-1",
+    "type": "Organization",
+    "id": "https://github.com/MSP-1-Protocol",
+    "scope": "Stewardship of this repository and its published contents."
+  },
+  "provenance": {
+    "type": "ai-assisted",
+    "source": "https://github.com/MSP-1-Protocol/governance",
+    "timestamp": "2026-09-13T19:54:00-04:00",
+    "notes": "Initial repository-root MSP-1 declaration generated from the public repository and its published description or README for publisher review."
+  },
+  "revision": {
+    "id": "repo-msp-rev-2026-09-13",
+    "revisionDate": "2026-09-13",
+    "revisionNotes": "Initial repository-root MSP-1 declaration for the GitHub repository convention; generated from current public repository content for publisher review.",
+    "revisionVersion": "1.0.0"
+  }
+}
